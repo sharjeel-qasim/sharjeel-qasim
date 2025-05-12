@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sharjeel Qasim
-- 👀 I’m interested in .NET, JavaScript, TypeScript, Datascience and Blockchain.
-- 🌱 I’m currently learning Datascience
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 👀 I’m interested in .NET, JavaScript, TypeScript, Datascience and AI.
+- 🌱 I’m currently learning AI.
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/sharjeelqasim/)
 
 <!---

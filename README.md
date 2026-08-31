@@ -2,14 +2,13 @@
 
 # Hi there, I'm Sharjeel Qasim 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=680&lines=Senior+Software+Engineer+%7C+6x+Microsoft+Certified;.NET+8%2F9+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI+Solutions;8%2B+Years+Building+Fintech+%26+Distributed+Cloud+Systems;M.Sc.+Applied+AI+%40+THI+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+(8%2B+Years)+%7C+6x+Microsoft+Certified;.NET+8%2F9+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI+Solutions;8%2B+Years+Building+Fintech+%26+Distributed+Cloud+Systems;M.Sc.+Applied+AI+%40+THI+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharjeelqasim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sharjeelqasim@outlook.com"><img src="https://img.shields.io/badge/Email-sharjeelqasim@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sqasim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-sqasim.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript"><img src="https://img.shields.io/badge/Microsoft_Transcript-6x_Certified-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Transcript" /></a>
-  <a href="https://github.com/sharjeel-qasim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/sharjeelqasim/"><img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=for-the-badge" alt="Status" /></a>
+  <a href="https://www.linkedin.com/in/sharjeelqasim/"><img src="https://img.shields.io/badge/Experience-8%2B_Years-success?style=for-the-badge" alt="8+ Years Experience" /></a>
 </p>
 
 </div>
@@ -260,7 +259,7 @@ timeline
 I am always interested in discussing **distributed system architecture, .NET engineering, cloud modernization on Azure, and AI-driven applications**.
 
 - 💼 **LinkedIn**: [linkedin.com/in/sharjeelqasim](https://www.linkedin.com/in/sharjeelqasim/)
-- 📧 **Email**: [sharjeelqasim@outlook.com](mailto:sharjeelqasim@outlook.com) / [sharjeel@a3e.io](mailto:sharjeel@a3e.io)
+- 📧 **Email**: [sqasim.dev@gmail.com](mailto:sqasim.dev@gmail.com)
 - 🎓 **Microsoft Transcript**: [learn.microsoft.com/en-us/users/sqasim/transcript](https://learn.microsoft.com/en-us/users/sqasim/transcript)
 - 🌐 **Location**: Ingolstadt / Greater Munich Area, Bavaria, Germany *(Open to Hybrid / Remote in Germany & EU)*
 

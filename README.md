@@ -2,13 +2,28 @@
 
 # Hi there, I'm Sharjeel Qasim 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+(8%2B+Years)+%7C+6x+Microsoft+Certified;.NET+8%2F9+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI+Solutions;8%2B+Years+Building+Fintech+%26+Distributed+Cloud+Systems;M.Sc.+Applied+AI+%40+THI+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Senior+Software+Engineer+(8%2B+Years);6x+Microsoft+Certified+Professional;.NET+8%2F9+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
+
+<br/><br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sharjeelqasim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sqasim.dev@gmail.com"><img src="https://img.shields.io/badge/Email-sqasim.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript"><img src="https://img.shields.io/badge/Microsoft_Transcript-6x_Certified-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Transcript" /></a>
-  <a href="https://www.linkedin.com/in/sharjeelqasim/"><img src="https://img.shields.io/badge/Experience-8%2B_Years-success?style=for-the-badge" alt="8+ Years Experience" /></a>
+  <a href="https://www.linkedin.com/in/sharjeelqasim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sqasim.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sqasim.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript">
+    <img src="https://img.shields.io/badge/Microsoft_Transcript-6x_Certified-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Transcript" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sharjeelqasim/">
+    <img src="https://img.shields.io/badge/Experience-8%2B_Years-success?style=for-the-badge" alt="8+ Years Experience" />
+  </a>
 </p>
 
 </div>

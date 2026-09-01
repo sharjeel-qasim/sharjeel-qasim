@@ -2,11 +2,7 @@
 
 # Hi there, I'm Sharjeel Qasim 👋
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=50&lines=Senior+Software+Engineer+(8%2B+Years);6x+Microsoft+Certified+Professional;.NET+8%2F9+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
-
-<br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Senior+Software+Engineer+(8%2B+Years);6x+Microsoft+Certified+Professional;.NET+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharjeelqasim/">
@@ -158,7 +154,7 @@ timeline
     <td width="22%" valign="top"><b>Backend & .NET</b></td>
     <td width="78%">
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET_8%2F9-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/Web_API-00599C?style=flat-square&logo=rest&logoColor=white" />
       <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />

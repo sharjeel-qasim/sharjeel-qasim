@@ -16,10 +16,6 @@
   <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript">
     <img src="https://img.shields.io/badge/Microsoft_Transcript-6x_Certified-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Transcript" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sharjeelqasim/">
-    <img src="https://img.shields.io/badge/Experience-8%2B_Years-success?style=for-the-badge" alt="8+ Years Experience" />
-  </a>
 </p>
 
 </div>

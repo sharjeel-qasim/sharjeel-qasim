@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Senior+Software+Engineer+(8%2B+Years);6x+Microsoft+Certified+Professional;.NET+8%2F9+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=50&lines=Senior+Software+Engineer+(8%2B+Years);6x+Microsoft+Certified+Professional;.NET+8%2F9+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
 
 <br/><br/>
 

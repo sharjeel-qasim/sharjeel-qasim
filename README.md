@@ -248,19 +248,6 @@ timeline
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharjeel-qasim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sharjeel's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeel-qasim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel-qasim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 💬 Let's Connect!
 
 I am always interested in discussing **distributed system architecture, .NET engineering, cloud modernization on Azure, and AI-driven applications**.

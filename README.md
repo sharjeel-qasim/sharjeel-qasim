@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-sqasim.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript">
+  <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript/vn4woiyznnnzrgl">
     <img src="https://img.shields.io/badge/Microsoft_Transcript-6x_Certified-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Transcript" />
   </a>
 </p>
@@ -37,7 +37,7 @@ Currently pursuing a **Master's Degree in Applied Artificial Intelligence** at *
 ### 🏆 7x Certified: Microsoft & Redis Credentials
 
 <div align="center">
-  <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript">
+  <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript/vn4woiyznnnzrgl">
     <img src="https://img.shields.io/badge/Verify_All_Credentials-Official_Microsoft_Transcript-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Verify Transcript" />
   </a>
 </div>
@@ -254,7 +254,7 @@ I am always interested in discussing **distributed system architecture, .NET eng
 
 - 💼 **LinkedIn**: [linkedin.com/in/sharjeelqasim](https://www.linkedin.com/in/sharjeelqasim/)
 - 📧 **Email**: [sqasim.dev@gmail.com](mailto:sqasim.dev@gmail.com)
-- 🎓 **Microsoft Transcript**: [learn.microsoft.com/en-us/users/sqasim/transcript](https://learn.microsoft.com/en-us/users/sqasim/transcript)
+- 🎓 **Microsoft Transcript**: [learn.microsoft.com/en-us/users/sqasim/transcript/vn4woiyznnnzrgl](https://learn.microsoft.com/en-us/users/sqasim/transcript/vn4woiyznnnzrgl)
 - 🌐 **Location**: Ingolstadt / Greater Munich Area, Bavaria, Germany *(Open to Hybrid / Remote in Germany & EU)*
 
 <div align="center">

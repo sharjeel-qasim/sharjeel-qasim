@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sharjeel Qasim 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Senior+Software+Engineer+(8%2B+Years);6x+Microsoft+Certified+Professional;.NET+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Senior+Software+Engineer+(8%2B+Years);6x+Microsoft+%26+Redis+Certified;.NET+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharjeelqasim/">
@@ -34,7 +34,7 @@ Currently pursuing a **Master's Degree in Applied Artificial Intelligence** at *
 
 ---
 
-### 🏆 6x Microsoft Certified & Technical Credentials
+### 🏆 Microsoft & Redis Certifications
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript">
@@ -82,9 +82,9 @@ Currently pursuing a **Master's Degree in Applied Artificial Intelligence** at *
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔴 Redis Certified Developer for .NET</h4>
-      <p><b>Issuer:</b> Redis</p>
-      <p><i>High-performance caching, <code>StackExchange.Redis</code> multiplexing, RedisJSON, JSONPath, transactions, and distributed concurrency.</i></p>
+      <h4>🔴 Redis Certified: Redis Associate Developer</h4>
+      <p><b>Credential ID:</b> <code>192990659</code> &nbsp;|&nbsp; <b>Issuer:</b> Redis</p>
+      <p><i>Data Modeling, High-Performance Caching, <code>StackExchange.Redis</code> multiplexing, Redis Stack (JSON, Search, TimeSeries), Streams, and Concurrency.</i></p>
     </td>
     <td width="50%" valign="top">
       <h4>📜 Academic Honors & Programming Awards</h4>

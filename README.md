@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sharjeel Qasim 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Senior+Software+Engineer+(8%2B+Years);6x+Microsoft+%26+Redis+Certified;.NET+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&height=45&lines=Senior+Software+Engineer+(8%2B+Years);7x+Certified+(6x+Microsoft+%2B+Redis);.NET+%E2%80%A2+Azure+%E2%80%A2+React.js+%E2%80%A2+AI;Distributed+Systems+%26+Cloud+Architect;M.Sc.+Applied+AI+%40+THI+Germany)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharjeelqasim/">
@@ -34,7 +34,7 @@ Currently pursuing a **Master's Degree in Applied Artificial Intelligence** at *
 
 ---
 
-### 🏆 Microsoft & Redis Certifications
+### 🏆 7x Certified: Microsoft & Redis Credentials
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/users/sqasim/transcript">
